@@ -35,6 +35,7 @@
 |Pet|pet|Easy|Java|
 |Planina|planina|Easy|Java|
 |Pot|pot|Easy|Python|
+|Prime Sieve|primesieve|Medium|Java|
 |Quadrant Selection|quadrant|Easy|C++|
 |Quality-Adjusted Life-Year|qaly|Easy|C++|
 |Rating Problems|ratingproblems|Easy|Python|
