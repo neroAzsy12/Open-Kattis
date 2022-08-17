@@ -37,7 +37,7 @@
 |Pot|pot|Easy|Python|
 |Quadrant Selection|quadrant|Easy|C++|
 |Quality-Adjusted Life-Year|qaly|Easy|C++|
-|Rating Problems| ratingproblems | Python |
+|Rating Problems|ratingproblems|Easy|Python|
 |Solving for Carrots|carrots|Easy|Python|
 |Sort Two Numbers|sorttwonumbers|Easy|Java|
 |Stopwatch|stopwatch|Easy|C++|
