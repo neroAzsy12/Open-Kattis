@@ -8,3 +8,4 @@ Jack-O'-Lantern Juxtaposition|jackolanternjuxtaposition|Easy|Python
 Odd Echo|oddecho|Easy|Java
 Printing Costs|printingcosts|Easy|Java
 Sort Two Numbers|sorttwonumbers|Easy|Java
+Stuck In A Time Loop|timeloop|Easy|C++
