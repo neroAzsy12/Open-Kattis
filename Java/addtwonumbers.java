@@ -1,4 +1,6 @@
 import java.util.*;
+
+// Input: a, b where (0 ≤ a, b, ≤ 1,000,000)
 public class addtwonumbers {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
