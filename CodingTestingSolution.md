@@ -11,6 +11,6 @@ Luhn's Checksum Algorithm|luhnchecksum|Easy|C++
 Modulo|modulo|Easy|Java,Python
 Odd Echo|oddecho|Easy|Java
 Printing Costs|printingcosts|Easy|Java
-Sort Two Numbers|sorttwonumbers|Easy|Java
+Sort Two Numbers|sorttwonumbers|Easy|C++,Java
 Stuck In A Time Loop|timeloop|Easy|C++
 Watch Out For Those Hailstones!|hailstone|Medium|Java
