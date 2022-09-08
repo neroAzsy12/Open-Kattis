@@ -1,6 +1,6 @@
 Problem|ID|Difficulty|Languages
 ---|---|---|---
-Add Two Numbers|addtwonumbers|Easy|Java,Python
+Add Two Numbers|addtwonumbers|Easy|C++,Java,Python
 Alphabet Spam|alphabetspam|Easy|C++
 Costume Contest|costumecontest|Easy|Java
 Fizz Buzz|fizzbuzz|Easy|Java
