@@ -3,7 +3,7 @@ Problem|ID|Difficulty|Languages
 Add Two Numbers|addtwonumbers|Easy|C++,Java,Python
 Alphabet Spam|alphabetspam|Easy|C++
 Costume Contest|costumecontest|Easy|Java
-Fizz Buzz|fizzbuzz|Easy|Java
+Fizz Buzz|fizzbuzz|Easy|C++,Java
 Grading|grading|Easy|C++,Java,Python
 Hello World!|hello|Easy|C++,Java,Python
 Jack-O'-Lantern Juxtaposition|jackolanternjuxtaposition|Easy|C++,Java,Python
