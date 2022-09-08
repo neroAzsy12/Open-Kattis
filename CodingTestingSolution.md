@@ -10,7 +10,7 @@ Jack-O'-Lantern Juxtaposition|jackolanternjuxtaposition|Easy|C++,Java,Python
 Luhn's Checksum Algorithm|luhnchecksum|Easy|C++
 Modulo|modulo|Easy|C++,Java,Python
 Odd Echo|oddecho|Easy|C++,Java
-Printing Costs|printingcosts|Easy|Java
+Printing Costs|printingcosts|Easy|C++,Java
 Sort Two Numbers|sorttwonumbers|Easy|C++,Java
 Stuck In A Time Loop|timeloop|Easy|C++
 Watch Out For Those Hailstones!|hailstone|Medium|C++,Java
