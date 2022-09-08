@@ -7,11 +7,10 @@ public class hailstone {
     long result = 0;
 
     while (num != 1) {
+      result += num;
       if (num % 2 == 0) {
-        result += num;
         num /= 2;
       } else {
-        result += num;
         num = (3 * num) + 1;
       }
     }
