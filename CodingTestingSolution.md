@@ -20,8 +20,14 @@ Luhn's Checksum Algorithm|luhnchecksum|Easy|C++
 Modulo|modulo|Easy|C++,Java,Python
 Odd Echo|oddecho|Easy|C++,Java
 Printing Costs|printingcosts|Easy|C++,Java
+Quality-Adjusted Life-Year|qaly|Easy|C++
+Rating Problems|ratingproblems|Easy|C++
+Solving for Carrots|carrots|Easy|C++
 Sort Two Numbers|sorttwonumbers|Easy|C++,Java
+Stopwatch|stopwatch|Easy|C++
 Stuck In A Time Loop|timeloop|Easy|C++
+Take Two Stones|twostones|Easy|C++
 Tarifa|tarifa|Easy|C++
 Trik|trik|Easy|C++
 Watch Out For Those Hailstones!|hailstone|Medium|C++,Java
+Zamka|zamka|Easy|C++
