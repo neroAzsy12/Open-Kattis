@@ -22,4 +22,5 @@ Odd Echo|oddecho|Easy|C++,Java
 Printing Costs|printingcosts|Easy|C++,Java
 Sort Two Numbers|sorttwonumbers|Easy|C++,Java
 Stuck In A Time Loop|timeloop|Easy|C++
+Trik|trik|Easy|C++
 Watch Out For Those Hailstones!|hailstone|Medium|C++,Java
