@@ -2,7 +2,16 @@ Problem|ID|Difficulty|Languages
 ---|---|---|---
 Add Two Numbers|addtwonumbers|Easy|C++,Java,Python
 Alphabet Spam|alphabetspam|Easy|C++
+Batter Up|batterup|Easy|C++
+Bela|bela|Easy|C++
+Bijele|bijele|Easy|C++
+Boat Parts|boatparts|Easy|C++
+Chanukah Challenge|chanukah|Easy|C++
+Cold-puter Science|cold|Easy|C++
 Costume Contest|costumecontest|Easy|C++,Java
+Cryptographer's Conundrum|conundrum|Easy|C++
+Dice Cup|dicecup|Easy|C++
+Echo Echo Echo|echoechoecho|Easy|C++
 Fizz Buzz|fizzbuzz|Easy|C++,Java
 Grading|grading|Easy|C++,Java,Python
 Hello World!|hello|Easy|C++,Java,Python
