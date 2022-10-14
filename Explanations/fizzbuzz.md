@@ -1,4 +1,6 @@
 # FizzBuzz
 
-Logic ordering with Division </br>
-[The Problem](https://open.kattis.com/problems/fizzbuzz)
+[The Problem](https://open.kattis.com/problems/fizzbuzz)</br>
+
+
+## Contents
