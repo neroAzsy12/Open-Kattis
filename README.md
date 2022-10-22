@@ -1,6 +1,6 @@
 # Open Kattis Solutions
 
-#|Problem|ID|Difficulty|Solution|Explanation
+Problem|ID|Difficulty|Solution|Explanation
 ---|---|---|---|---|---
 [Add Two Numbers](https://open.kattis.com/problems/addtwonumbers)|addtwonumbers|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/addtwonumbers.cpp),[Java](https://github.com/neroAzsy12/Open-Kattis/blob/main/Java/addtwonumbers.java),[Python](https://github.com/neroAzsy12/Open-Kattis/blob/main/Python/addtwonumbers.py)|N
 [Alphabet Spam](https://open.kattis.com/problems/alphabetspam)|alphabetspam|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/alphabetspam.cpp)|N
