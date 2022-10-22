@@ -1,5 +1,5 @@
-Problem|ID|Difficulty|Solution|Explanation
----|---|---|---|---
+#|Problem|ID|Difficulty|Solution|Explanation
+---|---|---|---|---|---
 Add Two Numbers|addtwonumbers|Easy|C++,Java,Python|N
 Alphabet Spam|alphabetspam|Easy|C++|N
 Batter Up|batterup|Easy|C++|N
@@ -13,9 +13,11 @@ Cryptographer's Conundrum|conundrum|Easy|C++|N
 Dice Cup|dicecup|Easy|C++|N
 Echo Echo Echo|echoechoecho|Easy|C++|N
 Electrical Outlets|electricaloutlets|Easy|C++|N
+FYI|fyi|Easy|C++,Java|N
 Faktor|faktor|Easy|C++|N
 Filip|filip|Easy|C++|N
 Fizz Buzz|fizzbuzz|Easy|C++,Java|N
+GCVWR|gcvwr|Easy|C++|N
 Grading|grading|Easy|C++,Java,Python|N
 Grass Seed Inc.|grassseed|Easy|C++|N
 Greetings!|greetings2|Easy|C++|N
@@ -23,9 +25,9 @@ Heart Rate|heartrate|Easy|C++|N
 Hello World!|hello|Easy|C++,Java,Python|N
 Help a PhD candidate out!|helpaphd|Easy|C++|N
 Homework|heimavinna|Easy|C++|N
+I've Been Everywhere, Man|everywhere|Easy|C++|N
 ICPC Awards|icpcawards|Easy|C++|N
 IsItHalloween.com|isithalloween|Easy|C++|N
-I've Been Everywhere, Man|everywhere|Easy|C++|N
 Jack-O'-Lantern Juxtaposition|jackolanternjuxtaposition|Easy|C++,Java,Python|N
 Jumbo Javelin|jumbojavelin|Easy|C++|N
 Last Factorial Digit|lastfactorialdigit|Easy|C++|N
@@ -41,6 +43,7 @@ Pot|pot|Easy|C++|N
 Printing Costs|printingcosts|Easy|C++,Java|N
 Quadrant Selection|quadrant|Easy|C++|N
 Quality-Adjusted Life-Year|qaly|Easy|C++|N
+R2|r2|Easy|C++|N
 Rating Problems|ratingproblems|Easy|C++|N
 Solving for Carrots|carrots|Easy|C++|N
 Sort Two Numbers|sorttwonumbers|Easy|C++,Java|N
