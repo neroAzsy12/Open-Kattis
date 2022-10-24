@@ -110,10 +110,10 @@ def writeContentToFiles(data_map, lang_map):
   """
 
   readme_file = open('../README.md', 'w')
-  readme_file.write('# Open Kattis Solutions\n\nProblem|ID|Difficulty|Solution|Explanation\n---|---|---|---|---|---\n')
+  readme_file.write('# Open Kattis Solutions\n\nProblem|ID|Difficulty|Solution|Explanation\n---|---|---|---|---\n')
 
   solution_file = open('../CodingSolutions.md', 'w')
-  solution_file.write('Problem|ID|Difficulty|Solution|Explanation\n---|---|---|---|---|---\n')
+  solution_file.write('Problem|ID|Difficulty|Solution|Explanation\n---|---|---|---|---\n')
 
   for key in data_map:
     problemId = key
