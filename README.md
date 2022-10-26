@@ -3,23 +3,23 @@
 Problem|ID|Difficulty|Solution|Explanation
 ---|---|---|---|---
 [Add Two Numbers](https://open.kattis.com/problems/addtwonumbers)|addtwonumbers|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/addtwonumbers.cpp),[Java](https://github.com/neroAzsy12/Open-Kattis/blob/main/Java/addtwonumbers.java),[Python](https://github.com/neroAzsy12/Open-Kattis/blob/main/Python/addtwonumbers.py)|N
-[Alphabet Spam](https://open.kattis.com/problems/alphabetspam)|alphabetspam|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/alphabetspam.cpp)|N
-[Batter Up](https://open.kattis.com/problems/batterup)|batterup|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/batterup.cpp)|N
-[Bela](https://open.kattis.com/problems/bela)|bela|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/bela.cpp)|N
-[Bijele](https://open.kattis.com/problems/bijele)|bijele|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/bijele.cpp)|N
-[Boat Parts](https://open.kattis.com/problems/boatparts)|boatparts|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/boatparts.cpp)|N
-[Chanukah Challenge](https://open.kattis.com/problems/chanukah)|chanukah|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/chanukah.cpp)|N
-[Cold-puter Science](https://open.kattis.com/problems/cold)|cold|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/cold.cpp)|N
+[Alphabet Spam](https://open.kattis.com/problems/alphabetspam)|alphabetspam|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/alphabetspam.cpp),[Java](https://github.com/neroAzsy12/Open-Kattis/blob/main/Java/alphabetspam.java),[Python](https://github.com/neroAzsy12/Open-Kattis/blob/main/Python/alphabetspam.py)|N
+[Batter Up](https://open.kattis.com/problems/batterup)|batterup|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/batterup.cpp),[Java](https://github.com/neroAzsy12/Open-Kattis/blob/main/Java/batterup.java),[Python](https://github.com/neroAzsy12/Open-Kattis/blob/main/Python/batterup.py)|N
+[Bela](https://open.kattis.com/problems/bela)|bela|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/bela.cpp),[Java](https://github.com/neroAzsy12/Open-Kattis/blob/main/Java/bela.java)|N
+[Bijele](https://open.kattis.com/problems/bijele)|bijele|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/bijele.cpp),[Java](https://github.com/neroAzsy12/Open-Kattis/blob/main/Java/bijele.java)|N
+[Boat Parts](https://open.kattis.com/problems/boatparts)|boatparts|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/boatparts.cpp),[Java](https://github.com/neroAzsy12/Open-Kattis/blob/main/Java/boatparts.java)|N
+[Chanukah Challenge](https://open.kattis.com/problems/chanukah)|chanukah|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/chanukah.cpp),[Java](https://github.com/neroAzsy12/Open-Kattis/blob/main/Java/chanukah.java)|N
+[Cold-puter Science](https://open.kattis.com/problems/cold)|cold|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/cold.cpp),[Java](https://github.com/neroAzsy12/Open-Kattis/blob/main/Java/cold.java)|N
 [Costume Contest](https://open.kattis.com/problems/costumecontest)|costumecontest|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/costumecontest.cpp),[Java](https://github.com/neroAzsy12/Open-Kattis/blob/main/Java/costumecontest.java)|N
-[Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum)|conundrum|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/conundrum.cpp)|N
-[Dice Cup](https://open.kattis.com/problems/dicecup)|dicecup|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/dicecup.cpp)|N
-[Echo Echo Echo](https://open.kattis.com/problems/echoechoecho)|echoechoecho|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/echoechoecho.cpp)|N
-[Electrical Outlets](https://open.kattis.com/problems/electricaloutlets)|electricaloutlets|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/electricaloutlets.cpp)|N
+[Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum)|conundrum|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/conundrum.cpp),[Java](https://github.com/neroAzsy12/Open-Kattis/blob/main/Java/conundrum.java)|N
+[Dice Cup](https://open.kattis.com/problems/dicecup)|dicecup|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/dicecup.cpp),[Java](https://github.com/neroAzsy12/Open-Kattis/blob/main/Java/dicecup.java)|N
+[Echo Echo Echo](https://open.kattis.com/problems/echoechoecho)|echoechoecho|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/echoechoecho.cpp),[Java](https://github.com/neroAzsy12/Open-Kattis/blob/main/Java/echoechoecho.java)|N
+[Electrical Outlets](https://open.kattis.com/problems/electricaloutlets)|electricaloutlets|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/electricaloutlets.cpp),[Java](https://github.com/neroAzsy12/Open-Kattis/blob/main/Java/electricaloutlets.java)|N
 [FYI](https://open.kattis.com/problems/fyi)|fyi|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/fyi.cpp),[Java](https://github.com/neroAzsy12/Open-Kattis/blob/main/Java/fyi.java)|N
-[Faktor](https://open.kattis.com/problems/faktor)|faktor|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/faktor.cpp)|N
-[Filip](https://open.kattis.com/problems/filip)|filip|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/filip.cpp)|N
-[Fizz Buzz](https://open.kattis.com/problems/fizzbuzz)|fizzbuzz|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/fizzbuzz.cpp),[Java](https://github.com/neroAzsy12/Open-Kattis/blob/main/Java/fizzbuzz.java)|N
-[GCVWR](https://open.kattis.com/problems/gcvwr)|gcvwr|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/gcvwr.cpp)|N
+[Faktor](https://open.kattis.com/problems/faktor)|faktor|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/faktor.cpp),[Java](https://github.com/neroAzsy12/Open-Kattis/blob/main/Java/faktor.java)|N
+[Filip](https://open.kattis.com/problems/filip)|filip|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/filip.cpp),[Java](https://github.com/neroAzsy12/Open-Kattis/blob/main/Java/filip.java)|N
+[Fizz Buzz](https://open.kattis.com/problems/fizzbuzz)|fizzbuzz|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/fizzbuzz.cpp),[Java](https://github.com/neroAzsy12/Open-Kattis/blob/main/Java/fizzbuzz.java),[Python](https://github.com/neroAzsy12/Open-Kattis/blob/main/Python/fizzbuzz.py)|N
+[GCVWR](https://open.kattis.com/problems/gcvwr)|gcvwr|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/gcvwr.cpp),[Java](https://github.com/neroAzsy12/Open-Kattis/blob/main/Java/gcvwr.java)|N
 [Grading](https://open.kattis.com/problems/grading)|grading|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/grading.cpp),[Java](https://github.com/neroAzsy12/Open-Kattis/blob/main/Java/grading.java),[Python](https://github.com/neroAzsy12/Open-Kattis/blob/main/Python/grading.py)|N
 [Grass Seed Inc.](https://open.kattis.com/problems/grassseed)|grassseed|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/grassseed.cpp)|N
 [Greetings!](https://open.kattis.com/problems/greetings2)|greetings2|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/greetings2.cpp)|N
@@ -49,10 +49,10 @@ Problem|ID|Difficulty|Solution|Explanation
 [Rating Problems](https://open.kattis.com/problems/ratingproblems)|ratingproblems|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/ratingproblems.cpp)|N
 [Solving for Carrots](https://open.kattis.com/problems/carrots)|carrots|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/carrots.cpp)|N
 [Sort Two Numbers](https://open.kattis.com/problems/sorttwonumbers)|sorttwonumbers|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/sorttwonumbers.cpp),[Java](https://github.com/neroAzsy12/Open-Kattis/blob/main/Java/sorttwonumbers.java)|N
-[Stopwatch](https://open.kattis.com/problems/stopwatch)|stopwatch|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/stopwatch.cpp)|N
-[Stuck In A Time Loop](https://open.kattis.com/problems/timeloop)|timeloop|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/timeloop.cpp)|N
-[Take Two Stones](https://open.kattis.com/problems/twostones)|twostones|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/twostones.cpp)|N
-[Tarifa](https://open.kattis.com/problems/tarifa)|tarifa|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/tarifa.cpp)|N
-[Trik](https://open.kattis.com/problems/trik)|trik|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/trik.cpp)|N
-[Watch Out For Those Hailstones!](https://open.kattis.com/problems/hailstone)|hailstone|Medium|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/hailstone.cpp),[Java](https://github.com/neroAzsy12/Open-Kattis/blob/main/Java/hailstone.java)|N
-[Zamka](https://open.kattis.com/problems/zamka)|zamka|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/zamka.cpp)|N
+[Stopwatch](https://open.kattis.com/problems/stopwatch)|stopwatch|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/stopwatch.cpp),[Java](https://github.com/neroAzsy12/Open-Kattis/blob/main/Java/stopwatch.java)|N
+[Stuck In A Time Loop](https://open.kattis.com/problems/timeloop)|timeloop|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/timeloop.cpp),[Java](https://github.com/neroAzsy12/Open-Kattis/blob/main/Java/timeloop.java)|N
+[Take Two Stones](https://open.kattis.com/problems/twostones)|twostones|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/twostones.cpp),[Java](https://github.com/neroAzsy12/Open-Kattis/blob/main/Java/twostones.java),[Python](https://github.com/neroAzsy12/Open-Kattis/blob/main/Python/twostones.py)|N
+[Tarifa](https://open.kattis.com/problems/tarifa)|tarifa|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/tarifa.cpp),[Java](https://github.com/neroAzsy12/Open-Kattis/blob/main/Java/tarifa.java)|N
+[Trik](https://open.kattis.com/problems/trik)|trik|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/trik.cpp),[Java](https://github.com/neroAzsy12/Open-Kattis/blob/main/Java/trik.java)|N
+[Watch Out For Those Hailstones!](https://open.kattis.com/problems/hailstone)|hailstone|Medium|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/hailstone.cpp),[Java](https://github.com/neroAzsy12/Open-Kattis/blob/main/Java/hailstone.java),[Python](https://github.com/neroAzsy12/Open-Kattis/blob/main/Python/hailstone.py)|N
+[Zamka](https://open.kattis.com/problems/zamka)|zamka|Easy|[C++](https://github.com/neroAzsy12/Open-Kattis/blob/main/C++/zamka.cpp),[Java](https://github.com/neroAzsy12/Open-Kattis/blob/main/Java/zamka.java)|N

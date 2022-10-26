@@ -8,7 +8,7 @@ int main() {
 
   int total = 0;  // total = the amount of megabytes that will be available for the next n+1 month
 
-  for(int i = 0; i < n; i++) {
+  for (int i = 0; i < n; i++) {
     int p;      // p = the num of megabytes spent in each month
     cin >> p; 
 
